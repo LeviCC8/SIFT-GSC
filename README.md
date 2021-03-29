@@ -7,7 +7,8 @@ space.
 ## Install
 To install the dependencies (with python 3.8.8 tested):
 ```
-$ pip install opencv-python==4.5.1.48 numpy==1.20.2 scikit-learn==0.24.1 scikit-image==0.18.1
+$ pip install pandas==1.2.3 opencv-python==4.5.1.48 numpy==1.20.2 scikit-learn==0.24.1 
+  scikit-image==0.18.1
 ```
 
 ## Usage
